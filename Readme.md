@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Марина Григорьева](https://up.htmlacademy.ru/htmlcss/35/user/2149339).
-* Наставник: `Неизвестно`.
+* Наставник: `Ирина Малиновская`(https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
